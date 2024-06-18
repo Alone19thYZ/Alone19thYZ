@@ -20,7 +20,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://www.chengxiaoyu.top/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_57536426"><img src="https://img.shields.io/badge/CSDN-CSDN-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_57536426"><img src="https://img.shields.io/badge/CSDN-CSDN-f75536" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Alone19thYZ&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 
