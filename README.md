@@ -22,6 +22,7 @@
     <a href="https://www.chengxiaoyu.top/"><img src="https://img.shields.io/badge/Website-主页-586eef" /></a>&emsp;
     <a href="https://alone19thyz.github.io/"><img src="https://img.shields.io/badge/Hexo-博客-8c36db" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_57536426"><img src="https://img.shields.io/badge/CSDN-博客-f75536" /></a>&emsp;
+    <a href="https://gitee.com/chengxiaoyu11"><img src="https://img.shields.io/badge/Gitee-仓库-c31d26" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Alone19thYZ&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
