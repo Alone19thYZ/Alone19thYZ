@@ -23,8 +23,6 @@
     <a href="https://blog.csdn.net/weixin_57536426"><img src="https://img.shields.io/badge/CSDN-CSDN-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Alone19thYZ&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@Alone19thYZ"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
 
